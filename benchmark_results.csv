@@ -1,0 +1,2 @@
+Model,VRAM(GB),Tavg(sec),TPS,GPUload(%),TFLOPs
+qwen3:30b-a3b,20.52,34.17,11.11,4.33,0.67
